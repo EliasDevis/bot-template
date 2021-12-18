@@ -1,6 +1,6 @@
 {
-    "name": "bot-template",
-    "version": "0.5.0",
+    "name": "bot-template-new",
+    "version": "1.0.0",
     "description": "Шаблон бота для упращенного созданния бота",
     "main": "build/index.js",
     "scripts": {
@@ -22,10 +22,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EliasDevis/.git"
+        "url": "git+https://github.com/EliasDevis/bot-template-new.git"
     },
     "bugs": {
-        "url": "https://github.com/EliasDevis//issues"
+        "url": "https://github.com/EliasDevis/bot-template-new/issues"
     },
-    "homepage": "https://github.com/EliasDevis/#readme"
+    "homepage": "https://github.com/EliasDevis/bot-template-new/#readme"
 }
