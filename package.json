@@ -1,0 +1,31 @@
+{
+    "name": "bot-template",
+    "version": "0.5.0",
+    "description": "Шаблон бота для упращенного созданния бота",
+    "main": "build/index.js",
+    "scripts": {
+        "auto-run": "nodemon",
+        "auto-build": "tsc --watch",
+        "build": "tsc",
+        "run": "node ."
+    },
+    "keywords": [
+        "bot-template"
+    ],
+    "author": "Elias",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/rest": "^0.1.0-canary.0",
+        "colors": "^1.4.0",
+        "discord-api-types": "^0.24.0",
+        "discord.js": "^13.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EliasDevis/.git"
+    },
+    "bugs": {
+        "url": "https://github.com/EliasDevis//issues"
+    },
+    "homepage": "https://github.com/EliasDevis/#readme"
+}
